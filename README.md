@@ -59,7 +59,7 @@ List of all projects including live websites and code examples:
 
 # MyProjects
 List of all projects including live websites and code examples:
-### HTML & CSS
+## HTML & CSS
 ##### Example: Designer's Portfolio
 ###### Site: http://www.kbazant.com/example-html-css-portfolio/
 ###### Github: https://github.com/kbazant/example-html-css-portfolio
