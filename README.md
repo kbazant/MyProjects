@@ -1,6 +1,7 @@
 # MyProjects
 List of all projects including live websites and code examples:
 
+#### Wordpress
 ##### 1. Travel Blog 
 ###### Site: http://www.miejscaswiata.pl/
 ##### 2. Italian Restaurant
