@@ -8,27 +8,35 @@ Site: http://www.miejscaswiata.pl/
 <br />
 2) Italian Restaurant
 <br />
-Site: Github: http://www.kbazant.com/valdorciarestaurant/
+Site: http://www.kbazant.com/valdorciarestaurant/
 <br />
 <br />
 3) Example: Bootstrap 4
 <br />
-Site: http://kbazant.com/example-bootstrap-4/ Github: https://github.com/kbazant/example-bootstrap-4
+Site: http://kbazant.com/example-bootstrap-4/
+<br />
+Github: https://github.com/kbazant/example-bootstrap-4
 <br />
 <br />
 4) Example: Bootstrap 4 - Music Band
 <br />
-Site: http://www.kbazant.com/example-bootstrap-4-music-band/ Github: https://github.com/kbazant/example-bootstrap-4-music-band
+Site: http://www.kbazant.com/example-bootstrap-4-music-band/ 
+<br />
+Github: https://github.com/kbazant/example-bootstrap-4-music-band
 <br />
 <br />
 5) Example: Designer's Portfolio
 <br />
-Site: http://www.kbazant.com/example-html-css-portfolio/ Github: https://github.com/kbazant/example-html-css-portfolio
+Site: http://www.kbazant.com/example-html-css-portfolio/ 
+<br />
+Github: https://github.com/kbazant/example-html-css-portfolio
 <br />
 <br />
 6) Example: Bootstrap 4 - Startup
 <br />
-Site: http://www.kbazant.com/example-bootstrap-4-startup/ Github: https://github.com/kbazant/example-bootstrap-4-startup
+Site: http://www.kbazant.com/example-bootstrap-4-startup/ 
+<br />
+Github: https://github.com/kbazant/example-bootstrap-4-startup
 <br />
 <br />
 7) Example: Bootstrap 3 - Web Agency
@@ -43,15 +51,23 @@ Github: https://github.com/kbazant/angular-to-do-list-application
 <br />
 9) Temperature Converter
 <br />
-Site: https://kbazant.github.io/cftemperature/ Github: https://github.com/kbazant/cftemperature
+Site: https://kbazant.github.io/cftemperature/ 
+<br />
+Github: https://github.com/kbazant/cftemperature
+<br />
+<br />
 10) Example: jQuery Plugins
 <br />
-Site: http://www.kbazant.com/example-jquery-plugins/ Github: https://github.com/kbazant/example-jquery-plugins
+Site: http://www.kbazant.com/example-jquery-plugins/ 
+<br />
+Github: https://github.com/kbazant/example-jquery-plugins
 <br />
 <br />
 11) Date, Time and Quotes about Time
 <br />
-Site: https://kbazant.github.io/digitalclock/ Github: https://github.com/kbazant/digitalclock
+Site: https://kbazant.github.io/digitalclock/ 
+<br />
+Github: https://github.com/kbazant/digitalclock
 <br />
 <br />
 12) Example: WooCommerce Online Store
@@ -66,12 +82,14 @@ Github: https://github.com/kbazant/famous-clock
 <br />
 13) JavaScript Slider 
 <br />
-Site: https://github.com/kbazant/js-slider Github: https://kbazant.github.io/js-slider/
+Site: https://github.com/kbazant/js-slider 
+<br />
+Github: https://kbazant.github.io/js-slider/
 <br />
 <br />
 14) JavaScript Authentication with Express and Mongo
 <br />
-Site: Github: https://github.com/kbazant/javascript-authentication-with-express-and-mongo 
+Github: https://github.com/kbazant/javascript-authentication-with-express-and-mongo 
 <br />
 <br />
 15) Example: App built with Angular framework
@@ -81,12 +99,14 @@ Site: Github: https://github.com/kbazant/first-app
 <br />
 16) Example: JavaScript and the DOM
 <br />
-Site: Github: https://github.com/kbazant/java-script-and-the-dom
+Github: https://github.com/kbazant/java-script-and-the-dom
 <br />
 <br />
 17) Fromtoinfo - travel search
 <br />
-Site: http://www.fromtoinfo.com/ Github: https://github.com/kbazant/fromtoinfo 
+Site: http://www.fromtoinfo.com/ 
+<br />
+Github: https://github.com/kbazant/fromtoinfo 
 <br />
 <br />
 18) Example: jQuery library for front-end web development
@@ -105,5 +125,5 @@ Github: https://github.com/kbazant/simple-drawing-application
 <br />
 <br />
 https://github.com/kbazant/to-do-list-application
-
-
+<br />
+<br />
