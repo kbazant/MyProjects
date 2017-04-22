@@ -1,13 +1,10 @@
 # MyProjects
 List of all projects including live websites and code examples:
 
-##### 1)Travel Blog 
+##### 1) Travel Blog 
 ###### Site: http://www.miejscaswiata.pl/
-<br />
-<br />
-2) Italian Restaurant
-<br />
-Site: http://www.kbazant.com/valdorciarestaurant/
+##### 2) Italian Restaurant
+###### Site: http://www.kbazant.com/valdorciarestaurant/
 <br />
 <br />
 3) Example: Bootstrap 4
