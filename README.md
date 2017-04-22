@@ -56,7 +56,9 @@ Site: https://kbazant.github.io/digitalclock/ Github:
 <br />
 12) Example: WooCommerce Online Store
 <br />
-Site: https://kbazant.com/woocommerceonlinestore/ Github:
+Site: https://kbazant.com/woocommerceonlinestore/ 
+<br />
+<br />
 13) Famous Clock
 <br />
 Github: https://github.com/kbazant/famous-clock
