@@ -44,16 +44,6 @@
 ## Express & Mongo
 ##### JavaScript Authentication with Express and Mongo
 ###### Github: https://github.com/kbazant/javascript-authentication-with-express-and-mongo
-## Wordpress
-##### Travel Blog
-###### Site: http://www.miejscaswiata.pl/
-##
-##### Italian Restaurant
-###### Site: http://www.kbazant.com/valdorciarestaurant/
-##
-##### Fromtoinfo - travel search
-###### Site: http://www.fromtoinfo.com/
-###### Github: https://github.com/kbazant/fromtoinfo
 ## Bootstrap
 ##### Example: Bootstrap 4
 ###### Site: http://kbazant.com/example-bootstrap-4/
@@ -70,6 +60,16 @@
 ##### Example: Bootstrap 3 - Web Agency
 ###### Site: http://www.kbazant.com/example-bootstrap-3/ 
 ###### Github: https://github.com/kbazant/example-bootstrap-3
+## Wordpress
+##### Travel Blog
+###### Site: http://www.miejscaswiata.pl/
+##
+##### Italian Restaurant
+###### Site: http://www.kbazant.com/valdorciarestaurant/
+##
+##### Fromtoinfo - travel search
+###### Site: http://www.fromtoinfo.com/
+###### Github: https://github.com/kbazant/fromtoinfo
 ## WooCommerce
 ##### Example: WooCommerce Online Store
 ###### Site: https://kbazant.com/woocommerceonlinestore/
