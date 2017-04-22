@@ -41,7 +41,6 @@
 ##
 ##### Example: To Do List Application built with Angular Framework
 ###### Github: https://github.com/kbazant/angular-to-do-list-application
-##
 ## Express & Mongo
 ##### JavaScript Authentication with Express and Mongo
 ###### Github: https://github.com/kbazant/javascript-authentication-with-express-and-mongo
