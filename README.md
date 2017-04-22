@@ -1,6 +1,6 @@
 # MyProjects
 List of all projects including live websites and code examples.
-<br />
+
 1. Travel Blog 
 <br />
 Site: http://www.miejscaswiata.pl/
