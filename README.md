@@ -74,32 +74,32 @@ Site: https://github.com/kbazant/js-slider Github: https://kbazant.github.io/js-
 Site: Github: https://github.com/kbazant/javascript-authentication-with-express-and-mongo 
 <br />
 <br />
-14) Example: App built with Angular framework
+15) Example: App built with Angular framework
 <br />
 Site: Github: https://github.com/kbazant/first-app 
 <br />
 <br />
-14) Example: JavaScript and the DOM
+16) Example: JavaScript and the DOM
 <br />
 Site: Github: https://github.com/kbazant/java-script-and-the-dom
 <br />
 <br />
-14) Fromtoinfo - travel search
+17) Fromtoinfo - travel search
 <br />
 Site: http://www.fromtoinfo.com/ Github: https://github.com/kbazant/fromtoinfo 
 <br />
 <br />
-14) Example: jQuery library for front-end web development
+18) Example: jQuery library for front-end web development
 <br />
 Github: https://github.com/kbazant/example-jquery 
 <br />
 <br />
-15) Example: JavaScript To Do List Application
+19) Example: JavaScript To Do List Application
 <br />
 Github: https://github.com/kbazant/to-do-list-application 
 <br />
 <br />
-15) Example: Simple Drawing Application
+20) Example: Simple Drawing Application
 <br />
 Github: https://github.com/kbazant/simple-drawing-application
 <br />
