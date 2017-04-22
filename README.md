@@ -1,11 +1,7 @@
 # MyProjects
 List of all projects including live websites and code examples:
 
-1. Travel Blog 
-<br />
-Site: http://www.miejscaswiata.pl/
-<br />
-<br />
+
 2. Italian Restaurant
 <br />
 Site: Github: http://www.kbazant.com/valdorciarestaurant/
