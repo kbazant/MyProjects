@@ -37,7 +37,7 @@
 ###### Github: https://github.com/kbazant/famous-clock
 ## Angular
 ##### Example: App built with Angular framework
-###### Site: Github: https://github.com/kbazant/first-app
+###### Site: Github: https://github.com/kbazant/shopping-list
 ##
 ##### Example: To Do List Application built with Angular Framework
 ###### Github: https://github.com/kbazant/angular-to-do-list-application
