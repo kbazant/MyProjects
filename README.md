@@ -33,8 +33,6 @@
 ##### Example: JavaScript and the DOM
 ###### Github: https://github.com/kbazant/java-script-and-the-dom
 ##
-##### Famous Clock
-###### Github: https://github.com/kbazant/famous-clock
 ## Angular
 ##### Example: App built with Angular framework
 ###### Site: Github: https://github.com/kbazant/shopping-list
